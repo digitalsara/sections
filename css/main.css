@@ -15,3 +15,7 @@ img {
   width: 100%;
   max-width: 25em;
 }
+
+.box {
+  display:inline;
+}
