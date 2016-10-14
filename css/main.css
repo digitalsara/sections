@@ -18,11 +18,9 @@ img {
   max-width: 25em;
   display: block;
   vertical-align: middle;
-  margin: 2em;
 }
 
 h1 {
-  padding: 0.5em;
   text-align: center;
   display: inline-block;
   text-align: left;
