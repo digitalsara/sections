@@ -14,7 +14,7 @@ body {
 img {
   width: 100%;
   max-width: 25em;
-  display: inline;
+  display: inline-block;
   margin: 2em;
 }
 
