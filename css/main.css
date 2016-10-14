@@ -16,12 +16,10 @@ img {
   max-width: 25em;
 }
 
-.box1 {
-  display: block;
+h1, span {
+  padding: 0.5em;
   text-align: center;
-}
-
-.box2 {
-  display: block;
-  margin: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
 }
