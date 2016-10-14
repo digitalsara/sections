@@ -16,7 +16,7 @@ body {
 img {
   width: 100%;
   max-width: 25em;
-  display: inline-block;
+  display: inline;
   vertical-align: middle;
   margin: 2em;
 }
@@ -27,6 +27,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   display: inline-block;
+  text-align: left;
 }
 
 .btn a {
