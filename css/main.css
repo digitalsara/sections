@@ -9,14 +9,13 @@ html {
 body {
   font-family: "Lato", sans-serif;
   background-color: #f2f2f2;
-  margin: 1.5rem auto auto 0.75rem;
+  padding: 2em;
   line-height: 1.5;
 }
 
 img {
   width: 100%;
   max-width: 25em;
-  display: block;
   vertical-align: middle;
 }
 
@@ -26,13 +25,18 @@ h1 {
   text-align: left;
 }
 
-section {
-  padding-left: 0.5em;
+p {
+  display: inline-block;
+  max-width: 25em;
+}
+
+div {
+  display: inline-block;
 }
 
 a {
   text-decoration: none;
-  color: #666;
+  color: #333;
   border: 3px solid #333;
   padding: 0.5rem;
   border-radius: 7px;
